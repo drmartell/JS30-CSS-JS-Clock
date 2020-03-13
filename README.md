@@ -1,7 +1,7 @@
 
 #  JS30-CSS-JS-Clock
 
-### JavaScript CSS + JS Clock' exercise from [Wes Bos's free JavaScript30 course.](https://javascript30.com/)
+### 'JavaScript CSS + JS Clock' exercise from [Wes Bos's free JavaScript30 course.](https://javascript30.com/)
 
 This exercise is a vanilla JavaScript implementation of a simple analog clock with 3 hands.
 Was interesting to see the use of the browser dev tools to derive a bezier curve motion for the second hand that feels somewhat natural `transition-timing-function:  cubic-bezier(0.07,  1.35,  1,  1);` 
